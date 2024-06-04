@@ -1,6 +1,6 @@
 public class DoWhile {
     public static void main(String[] args) {
-        int i=1;
+        int i=20;
         do
         {
             System.out.println(i);
