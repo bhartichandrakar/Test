@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "B",
+            "request": "launch",
+            "mainClass": "B",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "C",
+            "request": "launch",
+            "mainClass": "C",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "D",
+            "request": "launch",
+            "mainClass": "D",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "DataType",
+            "request": "launch",
+            "mainClass": "DataType",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "E",
+            "request": "launch",
+            "mainClass": "E",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "EvenOrOddNumber",
+            "request": "launch",
+            "mainClass": "EvenOrOddNumber",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "F",
+            "request": "launch",
+            "mainClass": "F",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "HelloWorld",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "IfElseCondition",
+            "request": "launch",
+            "mainClass": "IfElseCondition",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "LargestOfTwoNum",
+            "request": "launch",
+            "mainClass": "LargestOfTwoNum",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "MyFirstApp",
+            "request": "launch",
+            "mainClass": "MyFirstApp",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "MyWorld",
+            "request": "launch",
+            "mainClass": "MyWorld",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "NestedIfElse",
+            "request": "launch",
+            "mainClass": "NestedIfElse",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "Operators",
+            "request": "launch",
+            "mainClass": "Operators",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "Percentage",
+            "request": "launch",
+            "mainClass": "Percentage",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "Print5Num",
+            "request": "launch",
+            "mainClass": "Print5Num",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "Problem",
+            "request": "launch",
+            "mainClass": "Problem",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "SwitchCaseStatement",
+            "request": "launch",
+            "mainClass": "SwitchCaseStatement",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "U",
+            "request": "launch",
+            "mainClass": "U",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
+            "name": "WhileLoop",
+            "request": "launch",
+            "mainClass": "WhileLoop",
+            "projectName": "BHC_2f5c375a"
+        }
+    ]
+}
