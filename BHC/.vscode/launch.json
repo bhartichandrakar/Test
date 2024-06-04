@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ForLoopDec",
+            "request": "launch",
+            "mainClass": "ForLoopDec",
+            "projectName": "BHC_2f5c375a"
+        },
+        {
+            "type": "java",
             "name": "ForLoop",
             "request": "launch",
             "mainClass": "ForLoop",
